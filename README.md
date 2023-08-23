@@ -3,7 +3,7 @@
 <p align="center">Your Ultimate Weather Companion</p>
 
 <div align="center">
-  <img src="assets/screenshots/weatherapp.png" alt="Home Screen" width="600">
+  <img src="src/screenshots/weatherapp.png" alt="Home Screen" width="600">
 </div>
 
 ## 🌦️ About WeatherApp

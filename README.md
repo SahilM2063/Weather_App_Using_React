@@ -1,6 +1,6 @@
 <h1 align="center">WeatherApp</h1>
 
-<p align="center">Your Ultimate Weather Companion</p>
+### <p align="center">Your Ultimate Weather Companion</p>
 
 <div align="center">
   <img src="src/screenshots/weatherapp.png" alt="Home Screen" width="100%">

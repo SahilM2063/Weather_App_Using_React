@@ -27,7 +27,7 @@ WeatherApp is a sleek and intuitive weather application built using React.js and
 WeatherApp features a user-friendly interface that makes it easy for users of all technical levels to access and understand weather data. The app's minimalist aesthetic ensures that you receive crucial weather information without visual clutter.
 
 <div align="center">
-  <img src="src/screenshots/abstract-iphone-12-mockup.png" alt="Interactive Charts" width="800">
+  <img src="src/screenshots/abstract-iphone-12-mockup.png" alt="Interactive Charts" width="100%">
 </div>
 
 ## 🚀 Getting Started

@@ -12,7 +12,7 @@ WeatherApp is a sleek and intuitive weather application built using React.js and
 
 ## 🌡️ Features
 
-- __**Real-time Weather Data:**__ Get up-to-date weather information for your location or any city you choose.
+- **Real-time Weather Data:** Get up-to-date weather information for your location or any city you choose.
 - **Temperature Units:** Toggle between Celsius and Fahrenheit to view temperature in your preferred unit.
 - **Comprehensive Details:** Access detailed weather data including humidity, visibility, air quality, UV index, wind speed, sunrise, and sunset times.
 - **Responsive Design:** Enjoy a consistent and visually appealing experience on devices of all sizes.

@@ -6,38 +6,7 @@
   <img src="src/screenshots/weatherapp.png" alt="Home Screen" width="100%">
 </div>
 
-I apologize for the confusion. If you want to add the link to your Weather App in its README file, you can follow a similar format to the one we used for the Chess Game README:
-
-markdown
-
-# Weather App
-
-![Weather App Screenshot](weather-app-screenshot.png)
-
-Welcome to the Weather App! This app provides real-time weather forecasts for various locations. Stay informed about the weather conditions before you plan your activities.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The Weather App allows you to quickly check the weather in different locations. It's designed to be a user-friendly and informative tool for your everyday use.
-
-## Features
-
-- **Real-Time Data:** Get up-to-date weather information.
-- **Location Search:** Look up weather forecasts for specific locations.
-- **Easy-to-Use Interface:** The app is designed to be intuitive and simple.
-
-## Getting Started
-
-1. Visit the [Weather App](https://weather-app-ten-mu-45.vercel.app/) website.
+# Visit the [Weather App](https://weather-app-ten-mu-45.vercel.app/) website.
 
 ## 🌦️ About WeatherApp
 

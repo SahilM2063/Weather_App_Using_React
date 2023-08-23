@@ -18,10 +18,6 @@ WeatherApp is a sleek and intuitive weather application built using React.js and
 - **Responsive Design:** Enjoy a consistent and visually appealing experience on devices of all sizes.
 - **Search Functionality:** Look up weather information for any city by simply entering the name.
 
-<div align="center">
-  <img src="assets/screenshots/details.png" alt="Weather Details" width="800">
-</div>
-
 ## 📱 User-friendly Interface
 
 WeatherApp features a user-friendly interface that makes it easy for users of all technical levels to access and understand weather data. The app's minimalist aesthetic ensures that you receive crucial weather information without visual clutter.

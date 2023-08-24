@@ -3,7 +3,7 @@
 ### <p align="center">Your Ultimate Weather Companion</p>
 
 <div align="center">
-  <img src="src/screenshots/weatherapp.png" alt="Home Screen" width="100%">
+  <img src="src/screenshots/weatherapp.png" alt="Home Screen" target="_blank" width="100%">
 </div>
 
 ## Visit the [Weather App](https://weather-app-ten-mu-45.vercel.app/) website.

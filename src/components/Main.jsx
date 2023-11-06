@@ -13,14 +13,8 @@ import Visibility from "./Visibility";
 import AirQuality from "./AirQuality";
 
 const Main = () => {
-<<<<<<< HEAD
   // const api_key = "c708f74eaf9742a5bee68d2b538a3945";  // 50 calls/day
   const api_key = "7c61f0b0e9e44144950676a512791b98"; // 1500 calls/day
-=======
-  // const api_key = "bb7a587e90b548b1971ce0c92a493970";
-  const api_key = "c708f74eaf9742a5bee68d2b538a3945";
-  // extra-key: "6c966a9795da483ea727f1876b56f920"
->>>>>>> 9207679dd7c4735f067157229fa147d12dc5f6d7
 
   const [wdata, setWdata] = useState({
     weather: {

@@ -12,7 +12,7 @@ const AirQuality = ({ mainData }) => {
   const aq = mainData.aqi;
   let aqlevel;
 
-  if (aq > 0 && aq <= 50) {
+  if (aq > 0 && aq <= 53) {
     aqlevel = "Good";
   } else if (aq > 50 && aq <= 100) {
     aqlevel = "Satisfactory";
